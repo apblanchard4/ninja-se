@@ -1,7 +1,7 @@
 {
   "name": "ninja_se",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://apblanchard4.github.io/ninja-se",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
